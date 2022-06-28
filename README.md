@@ -10,7 +10,7 @@
 
 
 
-> ### Jordanian Main dish ( [Jordan](https://en.wikipedia.org/wiki/Jordan) )
+> ### Arab Main dish 
 
 | Name  | image |
 | ------------- | ------------- |
