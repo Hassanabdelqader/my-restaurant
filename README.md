@@ -49,7 +49,7 @@
 |      pepsi 🍾<br> **not good for children** |  7.99$  |  
 |  --------------------------------------------------------------------------------------------------------    | |  
 
-![Firmeare](images/mirowithiut.PNG.PNG)
+![Firmeare](images/mirowithiut.PNG)
 ![Firmeare](images/miro2.PNG)
 
 
