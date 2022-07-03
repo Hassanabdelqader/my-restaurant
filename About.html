@@ -5,6 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home</title>
+
+    <link rel="stylesheet" href="my-restaurant-style.css">
 </head>
 
 <body>
@@ -13,24 +15,25 @@
 
 <header>
 
+    
     <img src="images/LOGo.png" alt="Logo" id="logo"/>
-    <label for="#logo"> Come & Eat</label>
+    
+    
+    <span for="#logo" class="logoname"> Come & Eat</span>
+
+    <div id="nav-div">
+        <nav class="navlogoclass">
 
    
-        <div id="nav-div" style="position: fixed;
-        right: 0;
-        top: 0;">
-         <nav>
-        <button><a href="index.html">Home</a> </button>
+        <button><a href="index.html" class="navitemA">Home</a> </button>
         
-        <button><a href="/html/">Location</a> </button>
+        <button><a href="/html/" class="navitemA">Location</a> </button>
         
-        <button><a href="#">About</a> </button>
+        <button><a href="#" class="navitemA">About</a> </button>
         
-        <input type="search" placeholder="Search for meals" />
+        <input type="search" placeholder="Search for meals" class="searchinput" />
         
-       
-        <label>Hasan Mousa</label>
+        <button type="submit"  style="background-color:aqua ;">Search</button>
       </nav>
 
     </div>
